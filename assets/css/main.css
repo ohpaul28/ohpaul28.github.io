@@ -1669,5 +1669,17 @@ input, select, textarea {
     }
 
     section#works h3 {
-      
+
+    }
+
+    #h1Title1 {
+      color: rgb(238, 17, 17);
+    }
+
+    #h1Title2 {
+      color: rgb(18, 18, 229);
+    }
+
+    #h1Title3 {
+      color: black;
     }
