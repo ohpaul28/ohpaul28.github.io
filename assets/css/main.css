@@ -1665,11 +1665,13 @@ input, select, textarea {
     section#works {
       border: 1px solid #ddd;
       padding: 10px;
-      margin-bottom: 10px;
+      margin-bottom: 15px;
     }
 
     section#works h3 {
-
+      border-bottom: 1px solid white;
+      width: fit-content;
+      padding: 2px;
     }
 
     #h1Title1 {
