@@ -1685,3 +1685,9 @@ input, select, textarea {
     #h1Title3 {
       color: black;
     }
+
+    .fa-gem {
+      margin-top: 20px;
+      margin-left: -3px;
+      height: 50px;
+    }
